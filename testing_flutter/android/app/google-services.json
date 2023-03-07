@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "205524077596",
+    "project_id": "fixit-app-f235a",
+    "storage_bucket": "fixit-app-f235a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205524077596:android:9c7dc77c9f12d4af3863d9",
+        "android_client_info": {
+          "package_name": "com.example.testing_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205524077596-1amdkug2udt8imtmse08phvq2rtligod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testing_flutter",
+            "certificate_hash": "6c305f6c291bde90bc30ff41393f8df2665c8cdc"
+          }
+        },
+        {
+          "client_id": "205524077596-ptptc17u56p6n3cpj18v2bl8vt2rgu1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxJRLZ7j8lMeSxZscRaVMVuklnwpoP_z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205524077596-ptptc17u56p6n3cpj18v2bl8vt2rgu1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
